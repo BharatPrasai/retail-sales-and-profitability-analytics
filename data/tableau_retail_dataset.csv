@@ -1,0 +1,11 @@
+order_id,order_date,region,category,product_name,quantity,gross_revenue,cogs,net_profit,return_reason,month
+O10002,2024-01-20,East,Furniture,Wooden Desk,1,285.0,160.0,125.0,Damaged,Jan
+O10004,2024-02-12,West,Electronics,Smartphone,1,510.0,300.0,210.0,Late Delivery,Feb
+O10006,2024-03-02,East,Furniture,Office Chair,1,150.0,80.0,70.0,,Mar
+O10008,2024-03-15,West,Electronics,Smartphone,1,600.0,300.0,300.0,,Mar
+O10008,2024-03-15,West,Furniture,Wooden Desk,1,270.0,160.0,110.0,,Mar
+O10005,2024-02-18,Central,Electronics,Laptop,1,1200.0,600.0,600.0,,Feb
+O10001,2024-01-15,Central,Electronics,Smartphone,1,540.0,300.0,240.0,,Jan
+O10001,2024-01-15,Central,Furniture,Office Chair,2,300.0,160.0,140.0,,Jan
+O10007,2024-03-10,South,Electronics,Laptop,1,1200.0,600.0,600.0,,Mar
+O10003,2024-02-05,South,Electronics,Laptop,2,2400.0,1200.0,1200.0,,Feb

@@ -68,3 +68,5 @@ plt.tight_layout()
 output_chart = "python_eda/monthly_performance.png"
 plt.savefig(output_chart, dpi=300)
 print(f"\nChart successfully saved to {output_chart}\n")
+df.to_csv("data/tableau_retail_dataset.csv", index=False)
+print("Tableau CSV exported successfully!")
